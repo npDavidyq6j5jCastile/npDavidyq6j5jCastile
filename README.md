@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm npDavidyq6j5jCastile
 
-<!--
-**npDavidyq6j5jCastile/npDavidyq6j5jCastile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚵 🥊 🌈 Exploring the world of tech gadgets 🚵 🥊 🌈
 
-Here are some ideas to get you started:
+## About Me
+🛹 🎱 🎬 Curious about algorithms 🛹 🎱 🎬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏏 🎯 A professional in tech reviews 🏏 🎯
+
+### Fun Facts
+🎰 💻 A passionate developer who loves developer relations 🎰 💻
+
+---
+🎾 🌍 🏊 🎬 🛹 Thanks for visiting my profile! 🎨 🎻 🎪 🎾 🎣
